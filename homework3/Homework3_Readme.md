@@ -33,9 +33,8 @@ Before modeling:
 - retail  
 
 ✅ **Answer:** `retail'
-📘 *Explanation:* After imputing missing values, `'NA'` appeared most frequently in the `industry` column.
 
----
+
 
 ## ❓Question 2
 
